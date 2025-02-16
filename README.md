@@ -12,8 +12,6 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-import speech_recognition as sr
-
 Task Description:
 This Python script implements a basic speech-to-text system using the SpeechRecognition library with a pre-trained model. It enables transcribing short audio clips into text.
 
